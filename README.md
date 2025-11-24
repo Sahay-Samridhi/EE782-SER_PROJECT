@@ -43,7 +43,7 @@ The following table summarizes the accuracy (%) achieved by each model-loss comb
 * **Architecture Dependence:** Transformer-based models (HuBERT, Wav2Vec 2.0) significantly outperformed traditional LSTM and VGGish architectures.
 * **Loss Function Synergy:** While Cross-Entropy is a strong baseline, **CCC Loss** proved most effective for the sequential LSTM model, whereas **Focal Loss** maximized the potential of the HuBERT transformer.
 
-## ⚙️ Prerequisites
+##  Prerequisites
 * Python 3.x
 * PyTorch
 * HuggingFace Transformers (for HuBERT and Wav2Vec 2.0)
