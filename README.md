@@ -33,7 +33,7 @@ The following table summarizes the accuracy (%) achieved by each model-loss comb
 
 | Model | Cross-Entropy | Label Smoothing | Focal Loss | AAM | CCC |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **LSTM** | 56.10 | 56.37 | 52.66 | 47.34 | **58.23** |
+| **LSTM** | 56.10 | 56.37 | 52.66 | 47.34 | **58.99** |
 | **VGGish** | **57.54** | 57.00 | 56.19 | 27.73 | 55.65 |
 | **Wav2Vec 2.0** | **74.46** | 72.17 | 72.29 | 61.33 | 74.22 |
 | **HuBERT** | 81.30 | 80.09 | **81.41** | 78.66 | 63.80 |
